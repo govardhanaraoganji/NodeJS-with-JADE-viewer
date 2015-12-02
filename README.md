@@ -6,20 +6,23 @@ If you found the old node package installed, run this command to completely remo
 > sudo apt-get remove --purge node
 
 Install Node.js with Ubuntu Package Manager
-1. To install Node.js, open a terminal and type the following command:
+
+To install Node.js, open a terminal and type the following command:
 > sudo apt-get install nodejs
-2. Then install the node package manager, npm:
+
+Then install the node package manager, npm:
 > sudo apt-get install npm
-3. Now we should have both the node and npm commands working
+
+Now we should have both the node and npm commands working
 > node -v
 	v0.10.25
 > npm -v
 	1.3.10
 
 # We can install node module[s] in two ways.
-1. Permanent 
+1. Permanent Way
 > npm install body-parser -- save
-2. Temporary
+2. Temporary Way
 > npm install body-parser
 
 
