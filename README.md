@@ -32,12 +32,8 @@ Now we should have both the node and npm commands working
 
 > npm start
 
-# Testing your application / API[s] by using POSTMAN or some other REST-Client.
+# Testing your application by using HTTP-Client like Chrome / Mozila / IE.
 
 Here is the some URL[s],
 
-1. Home Page	GET	http://127.0.0.1:3000/	
-2. Add Student	GET	http://127.0.0.1:3000/addStudent
-3. Add Question	POST	http://127.0.0.1:3000/addQuestion
-
-If you want, you can remove I18N configuration & fileupload & etc.
+1. Home Page	GET	http://127.0.0.1:3000/
