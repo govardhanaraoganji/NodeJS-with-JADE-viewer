@@ -1,4 +1,4 @@
-#Here am going to explain NodeJS application configuration, deployment & testing API[s]
+#Here am going to explain NodeJS with JADE viewer application configuration, deployment & testing API[s]
 
 # npm & NodeJS installation guide.
 
